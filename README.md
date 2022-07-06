@@ -2,7 +2,7 @@
 
 - "你們先付還HOFF" sounds like "Whether should I pay first or not?" in Taiwanese. 
 
-- It's also the name I use to show my graffiti or photo 
+  It's also the name I use to show my graffiti or photo 
 
 - 👋 Hi, I’m @1y1c0c8, or you can call me Hoff
 - 👀 I’m interested in design my own PCB
