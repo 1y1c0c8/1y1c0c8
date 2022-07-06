@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74277068/148971490-be2c008b-c1d0-4b3c-a146-16c3309ae984.jpg" width="500">
-- "你們先付還HOFF" sounds like "Whether should I pay first or not?" in Taiwanese. It's also the name I use to show my graffiti or photo 
+- "你們先付還HOFF" sounds like "Whether should I pay first or not?" in Taiwanese. 
+- It's also the name I use to show my graffiti or photo 
 
 - 👋 Hi, I’m @1y1c0c8, or you can call me Hoff
 - 👀 I’m interested in design my own PCB
